@@ -118,9 +118,9 @@ hr{
   background: #40514e;
  margin: 0;
  line-height: 2;
- padding: 20px;
+ padding-top: 10px;
  color: #fff;
-	font-size: 0.85rem;
+	font-size: 0.95rem;
 }
 .contact-me{
   line-height: 2;
